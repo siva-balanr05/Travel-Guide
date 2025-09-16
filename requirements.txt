@@ -1,0 +1,14 @@
+gradio
+transformers
+accelerate
+torch
+chromadb
+langchain
+sentence-transformers
+pillow
+pytesseract
+pymupdf
+python-docx
+pandas
+langchain-community
+duckdb
